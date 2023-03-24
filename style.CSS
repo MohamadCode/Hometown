@@ -39,18 +39,35 @@ body {
 }
 
 .activity__section {
-    padding: 20px;
+    padding: 20px 0;
     background-color: #C8C0AA;
     height: 100%;
+    margin: 0;
 }
 
 .activity__container {
     display: flex;
     flex-direction: row;
     align-items: center;
-    
+    justify-content: center;
 }
 
-.activity__img {
+.activity__img1 {
     width: 400px;
+    height: 300px;
+    clip-path: circle();
+}
+
+.activity__img2 {
+    width: 400px;
+    height: 300px;
+    clip-path: circle();
+}
+
+
+
+.activity__img3 {
+    width: 400px;
+    height: 300px;
+    clip-path: circle();
 }
