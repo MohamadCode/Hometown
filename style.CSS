@@ -21,8 +21,18 @@ body {
 }
 
 .title {
-    color: white;
+    color: #FFFFFF;
     background-color: #7082AB;
     padding: 5px 12px;
     border-radius: 10px;
+    font-size: 30px;
+}
+
+
+.visit__desc {
+    color: #FFFFFF;
+    background-color: #585B65;
+    padding: 5px 12px;
+    border-radius: 10px;
+    font-size: 20px;
 }
