@@ -39,7 +39,8 @@ body {
 }
 
 .activity__section {
-    background-color: #5775A6;
+    padding: 20px;
+    background-color: #C8C0AA;
     height: 100%;
 }
 
@@ -48,4 +49,8 @@ body {
     flex-direction: row;
     align-items: center;
     
+}
+
+.activity__img {
+    width: 400px;
 }
