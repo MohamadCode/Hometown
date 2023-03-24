@@ -14,6 +14,7 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
     height: 450px;
+    
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -35,4 +36,16 @@ body {
     padding: 5px 12px;
     border-radius: 10px;
     font-size: 20px;
+}
+
+.activity__section {
+    background-color: #5775A6;
+    height: 100%;
+}
+
+.activity__container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    
 }
