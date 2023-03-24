@@ -94,3 +94,8 @@ body {
 .activity__desc {
     color: #5775A6;
 }
+
+
+.card__section {
+    height: 450px;
+}
