@@ -98,7 +98,10 @@ body {
 
 .card__section {
     margin: 100px 0;
+    padding: 20px;
     height: 650px;
+    border: 1px solid red;
+    display: flex;
 }
 
 
