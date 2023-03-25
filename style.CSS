@@ -99,12 +99,15 @@ body {
 .card__section {
     margin: 100px 0;
     padding: 20px;
-    height: 650px;
+    height: 200px;
     border: 1px solid red;
     display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 
 .chad__img {
-    width: 150px;
+    border: 1px solid red;
+    width: 140px;
 }
